@@ -1,16 +1,16 @@
-h2, h3, h4, h5, h6{
-	margin:10.5px 0;
-	color:#002a5b;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-	font-weight: 600;
-}
-
 #wrap {
     z-index: 1;
     position: relative;
     max-width: 1170px;
     margin-left: auto;
     margin-right: auto;
+}
+
+h2, h3, h4, h5, h6{
+	margin:10.5px 0;
+	color:#002a5b;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-weight: 600;
 }
 
 p{
