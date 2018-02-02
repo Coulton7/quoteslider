@@ -28,8 +28,8 @@ p{
 }
 
 .staff-image{
-    width: 150px;
-    height: 150px;
+    width: 100%;
+    height: 100%;
     margin: 0 auto;
     border-radius: 50%;
 }
