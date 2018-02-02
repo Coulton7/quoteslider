@@ -76,6 +76,12 @@ p{
     margin-top: 7px;
 }
 
+.staff-image-card{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
 .dialog-box{
     background: white;
     width: 100%;
