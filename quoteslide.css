@@ -59,6 +59,19 @@ p{
     padding: 15px 15px 0 15px;
 }
 
+.dialog-box span{
+    font-weight: bold;
+    padding:15px 15px 0px 15px;
+    font-size: 14px;
+    display: table-cell;
+    color:#a2904b;
+}
+.dialog-box i{
+    float: right;
+    margin-right: 16px;
+    margin-top: 7px;
+}
+
 .dialog-box{
     background: white;
     width: 100%;
