@@ -78,6 +78,7 @@ p{
 .carousel-indicators {
     bottom:-2em;
 }
+
 .parent-box{
     width:100%;
     height:300px;
@@ -152,9 +153,6 @@ p{
   }
   .carousel{
     height: 21em;
-  }
-  .carousel-inner{
-    overflow-y: scroll;
   }
 }
 
