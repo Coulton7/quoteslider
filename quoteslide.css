@@ -69,7 +69,36 @@ p{
   margin-right:auto;
 }
 
-.quote:last-child{
+.quote-2 p:first-child{
+	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-top.png");
+	background-repeat:no-repeat;
+  background-position:-1.5%-11%;
+  padding-top:1.7em;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.quote-3 p:first-child{
+	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-top.png");
+	background-repeat:no-repeat;
+  background-position:-1.5%-11%;
+  padding-top:1.7em;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.quote-1:last-child{
+	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-bottom.png");
+  background-position:98.7% 100%;
+  background-repeat:no-repeat;
+}
+.quote-2:last-child{
+	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-bottom.png");
+  background-position:98.7% 100%;
+  background-repeat:no-repeat;
+}
+
+.quote-3:last-child{
 	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-bottom.png");
   background-position:98.7% 100%;
   background-repeat:no-repeat;
