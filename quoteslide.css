@@ -50,8 +50,8 @@ p{
 }
 
 .carousel-indicators {
-    bottom: -100px;
-    position:absolute; 
+    transform: translateY(-50%);
+    position:absolute;
 }
 .parent-box{
     width:100%;
