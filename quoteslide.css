@@ -69,14 +69,7 @@ p{
   margin-right:auto;
 }
 
-.quote p:nth-child(3):first-child{
-	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-top.png");
-	background-repeat:no-repeat;
-  background-position:-0.5% 0%;
-  padding-top:1.7em;
-  margin-left:auto;
-  margin-right:auto;
-}
+
 
 .quote:last-child{
 	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-bottom.png");
