@@ -114,7 +114,7 @@ p{
 .dialog-box > p > a{
     padding: 12px 14px 0;
     text-decoration: none;
-    color:#1E3344;
+    color:#dd1e25;
     display: table;
 }
 
@@ -136,10 +136,6 @@ p{
     height: 45%;
     display: flex;
     position: relative;
-}
-
-.staff-image-card{
-  display:flex;
 }
 
 .img-adaptive{
