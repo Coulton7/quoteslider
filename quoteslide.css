@@ -61,12 +61,12 @@ p{
 }
 
 .quote p:first-child{
-	background-image:url(blockquote-top.png);
+	background-image:url(quoteslider/tree/gh-pages/images/blockquote-top.png);
 	background-repeat:no-repeat;
 }
 
 .quote:last-child{
-	background-image:url(blockquote-bottom.png);
+	background-image:url(quoteslider/tree/gh-pages/images/blockquote-bottom.png);
 	background-repeat:no-repeat;
 }
 
