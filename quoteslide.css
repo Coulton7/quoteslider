@@ -64,7 +64,6 @@ p{
 
 .carousel-indicators {
     bottom:-2em;
-    position:absolute;
 }
 .parent-box{
     width:100%;
@@ -101,12 +100,6 @@ p{
     position: relative;
     letter-spacing: 1px;
     border-radius: 1px;
-}
-
-.dialog-box > p{
-    margin: 0;
-    display: table;
-    width: 100%;
 }
 
 .dialog-box > p > a{
