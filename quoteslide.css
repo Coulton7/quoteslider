@@ -51,6 +51,7 @@ p{
 
 .carousel-indicators {
     bottom: -100px;
+    position:absolute; 
 }
 .parent-box{
     width:100%;
