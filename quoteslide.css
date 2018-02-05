@@ -153,3 +153,23 @@ p{
     position: relative;
     border-bottom:2px solid #a2904b;
 }
+
+@media screen and (max-width: 767px) {
+  .parent-box{
+    display: none;
+  }
+  .carousel{
+    height: 18em;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .carousel{
+    height: 23em;
+  }
+}
+@media screen and (min-width: 992px){
+  .carousel{
+  height: :16em;
+}
+}
