@@ -146,7 +146,6 @@ p{
     height: 45%;
     display: flex;
     position: relative;
-    border-bottom:2px solid #a2904b;
 }
 
 @media screen and (max-width: 767px) {
