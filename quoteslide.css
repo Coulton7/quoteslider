@@ -148,6 +148,12 @@ p{
     position: relative;
 }
 
+.img-adaptive{
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+
 @media screen and (max-width: 767px) {
   .parent-box{
     display: none;
