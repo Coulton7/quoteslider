@@ -41,6 +41,14 @@ p{
     border-radius: 50%;
 }
 
+.carousel{
+  height: 16em;
+}
+
+.carousel-inner{
+  height: 100%;
+}
+
 .carousel-indicators  li {
     background-color: #002a5b;
 }
