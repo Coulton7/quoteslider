@@ -4,6 +4,7 @@
     max-width: 1170px;
     margin-left: auto;
     margin-right: auto;
+    min-height: 100%
 }
 
 @media (min-width:1170px) {
