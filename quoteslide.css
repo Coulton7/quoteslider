@@ -71,11 +71,8 @@ p{
 
 .quote:last-child{
 	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-bottom.png");
-	background-repeat:no-repeat;
   background-position:98.7% 100%;
   background-repeat:no-repeat;
-  padding-bottom:1.85em;
-  padding-right:0.5em;
 }
 
 .box{
