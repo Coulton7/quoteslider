@@ -41,10 +41,6 @@ p{
     border-radius: 50%;
 }
 
-.carousel{
-  height: 16em;
-}
-
 .carousel-inner{
   height: 100%;
 }
@@ -170,6 +166,6 @@ p{
 }
 @media screen and (min-width: 992px){
   .carousel{
-  height: :16em;
+  height: 16em;
 }
 }
