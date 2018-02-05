@@ -61,12 +61,12 @@ p{
 }
 
 .quote p:first-child{
-	background-image:url(/images/blockquote-top.png);
+	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-top.png");
 	background-repeat:no-repeat;
 }
 
 .quote:last-child{
-	background-image:url(/images/blockquote-bottom.png);
+	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-bottom.png");
 	background-repeat:no-repeat;
 }
 
