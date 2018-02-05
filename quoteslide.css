@@ -60,7 +60,7 @@ p{
     background-color: #f5f5f5;
 }
 
-.quote:nth-child(1){
+.quote p:first-child{
 	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-top.png");
 	background-repeat:no-repeat;
   background-position:-1.5%-11%;
@@ -69,16 +69,7 @@ p{
   margin-right:auto;
 }
 
-.quote:nth-child(2){
-	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-top.png");
-	background-repeat:no-repeat;
-  background-position:-0.5% 0%;
-  padding-top:1.7em;
-  margin-left:auto;
-  margin-right:auto;
-}
-
-.quote p:last-child{
+.quote:last-child{
 	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-bottom.png");
   background-position:98.7% 100%;
   background-repeat:no-repeat;
