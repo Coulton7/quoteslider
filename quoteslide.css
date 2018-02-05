@@ -167,6 +167,8 @@ p{
   }
   .carousel{
     height: 18em;
+  }
+  .inner-carousel{
     overflow-y: scroll;
   }
 }
