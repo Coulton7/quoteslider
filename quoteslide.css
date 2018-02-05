@@ -24,6 +24,23 @@
 }
 }
 
+a {
+	text-decoration: none;
+}
+a:link {
+	color: #dd1e25;
+	border-bottom: 1px dashed #888c8f;
+}
+a:visited {
+	color: #dd1e25;
+	border-bottom: 1px dashed #b5b6b9;
+}
+a:hover {
+	color: #dd1e25;
+	border-bottom: 1px dashed #dd1e25;
+	text-decoration:none;
+}
+
 h2, h3, h4, h5, h6{
 	margin:10.5px 0;
 	color:#002a5b;
@@ -104,8 +121,6 @@ p{
 
 .dialog-box > p > a{
     padding: 12px 14px 0;
-    text-decoration: none;
-    color:#dd1e25;
     display: table;
 }
 
@@ -134,7 +149,6 @@ p{
 	margin-right:auto;
 	width:100%;
 }
-
 @media screen and (max-width: 767px) {
   .parent-box{
     display: none;
@@ -146,7 +160,6 @@ p{
     overflow-y: scroll;
   }
 }
-
 @media screen and (min-width: 768px) {
   .carousel{
     height: 22em;
