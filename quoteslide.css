@@ -52,16 +52,14 @@ p{
     border-radius: 50%;
 }
 
-.carousel-inner{
-  height: 100%;
-}
-
 .carousel-indicators  li {
     background-color: #002a5b;
+    border: none;
 }
 
 .carousel-indicators li.active {
     background-color: #dd1e25;
+    border:none;
 }
 
 .carousel-indicators {
