@@ -76,7 +76,9 @@ p{
 }
 
 .carousel-indicators {
-    bottom:-2em !important;
+    bottom:-2em;
+    top:auto;
+    right:auto;
 }
 
 .parent-box{
@@ -161,7 +163,7 @@ p{
     height: 21em;
   }
   .carousel-indicators{
-    bottom:-7em !important;
+    bottom:-7em;
   }
 }
 
@@ -173,7 +175,7 @@ p{
         background-position:-2.6% -13%;
   }
   .carousel-indicators{
-    bottom:-2em !important;
+    bottom:-2em ;
   }
 }
 @media screen and (min-width: 992px){
