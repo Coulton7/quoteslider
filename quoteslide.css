@@ -178,7 +178,7 @@ p{
   .quote{
     float: right;
     display: inline-block;
-    width:75%;
+    width:74%;
   }
   .quote p:first-child{
         background-position:-2.6% -28%;
