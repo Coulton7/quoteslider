@@ -98,7 +98,7 @@ p{
   margin-right:auto;
 }
 
-.blockquote-light:last-child{
+.blockquote-light:first-child{
 	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-bottom.png");
   background-position:98.7% 100%;
   background-repeat:no-repeat;
