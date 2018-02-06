@@ -156,49 +156,6 @@ p{
 	width:100%;
 }
 
-@media screen and (max-width: 767px) {
-  .parent-box{
-    display: none;
-  }
-  .carousel{
-    height: 21em;
-  }
-  .carousel-indicators{
-    bottom:-7em;
-    left:54%;
-  }
-  [class*="span"],.uneditable-input[class*="span"],.row-fluid [class*="span"] {
-    float: none;
-    display: block;
-    width: 100%;
-    margin-left: 0;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    padding: 20px 0;
-}
-}
-
-@media screen and (min-width: 768px) {
-  .carousel{
-    height: 22em;
-  }
-  .quote p:first-child{
-        background-position:-2.6% -13%;
-  }
-  .carousel-indicators{
-    bottom:-2em ;
-    left:50%;
-  }
-}
-@media screen and (min-width: 992px){
-  .carousel{
-  height: 17em;
-}
-.quote p:first-child{
-      background-position:-1.6% -20%;
-}
-}
 
 .row-fluid [class*="span"] {
     display: block;
@@ -243,3 +200,47 @@ p{
        width: 23.07692308%;
        *width: 23.02373159%
    }
+
+@media screen and (max-width: 767px) {
+  .parent-box{
+    display: none;
+  }
+  .carousel{
+    height: 21em;
+  }
+  .carousel-indicators{
+    bottom:-7em;
+    left:54%;
+  }
+  [class*="span"],.uneditable-input[class*="span"],.row-fluid [class*="span"] {
+    float: none;
+    display: block;
+    width: 100%;
+    margin-left: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 20px 0;
+}
+}
+
+@media screen and (min-width: 768px) {
+  .carousel{
+    height: 22em;
+  }
+  .quote p:first-child{
+        background-position:-2.6% -13%;
+  }
+  .carousel-indicators{
+    bottom:-2em ;
+    left:50%;
+  }
+}
+@media screen and (min-width: 992px){
+  .carousel{
+  height: 17em;
+}
+.quote p:first-child{
+      background-position:-1.6% -20%;
+}
+}
