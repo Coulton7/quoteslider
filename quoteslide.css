@@ -181,7 +181,7 @@ p{
     display: inline-block;
     width:74%;
   }
-  .quote p:first-child{
+  .quote p:last-child{
         background-position:-2.6% -28%;
   }
 }
