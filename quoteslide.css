@@ -183,10 +183,6 @@ p{
         clear: both
     }
 
-.row-fluid [class*="span"]:first-child {
-        margin-left: 0
-    }
-
     .row-fluid .controls-row [class*="span"]+[class*="span"] {
         margin-left: 2.56410256%
     }
