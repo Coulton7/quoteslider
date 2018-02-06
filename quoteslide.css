@@ -135,10 +135,13 @@ p{
     content: close-quote;
 }
 
+.staff-image-card{
+  width:60%;
+}
+
 .info{
     width: 100%;
     display: flex;
-    position: relative;
 }
 
 .img-adaptive{
