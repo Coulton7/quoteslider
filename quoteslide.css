@@ -178,6 +178,7 @@ p{
   .quote{
     float: right;
     display: inline-block;
+    width:75%;
   }
 }
 
