@@ -162,11 +162,12 @@ p{
   }
   .carousel{
     height: 21em;
-    display: inline;
+    display: inline-block;
   }
   .carousel-indicators{
     bottom:-7em;
-    left:54%;
+    left:50%;
+    display: inline-block;
   }
   .staff-image{
     float: left;
