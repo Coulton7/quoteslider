@@ -212,16 +212,6 @@ p{
     bottom:-7em;
     left:54%;
   }
-  [class*="span"],.uneditable-input[class*="span"],.row-fluid [class*="span"] {
-    float: none;
-    display: block;
-    width: 100%;
-    margin-left: 0;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    padding: 20px 0;
-}
 }
 
 @media screen and (min-width: 768px) {
