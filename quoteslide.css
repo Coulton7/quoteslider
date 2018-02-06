@@ -156,32 +156,27 @@ p{
 	width:100%;
 }
 
-
-    .row-fluid:before,.row-fluid:after {
-        display: table;
-        content: "";
-        line-height: 0
-    }
-
-    .row-fluid:after {
-        clear: both
-    }
-
-    .row-fluid .controls-row [class*="span"]+[class*="span"] {
-        margin-left: 2.56410256%
-    }
-
-
 @media screen and (max-width: 767px) {
   .parent-box{
     display: none;
   }
   .carousel{
     height: 21em;
+    display: inline;
   }
   .carousel-indicators{
     bottom:-7em;
     left:54%;
+  }
+  .staff-image{
+    float: left;
+    height: 50%;
+    width: 50%;
+    display: inline-block;
+  }
+  .quote{
+    float: right;
+    display: inline-block;
   }
 }
 
