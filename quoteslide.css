@@ -53,7 +53,7 @@ p{
   text-align: left;
 }
 
-.quote{
+.blockquote-light{
   margin-left:auto;
 	margin-right:auto;
 }
@@ -90,7 +90,7 @@ p{
     display:flex;
 }
 
-.quote p:first-child{
+.blockquote-light p:first-child{
 	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-top.png");
 	background-repeat:no-repeat;
   padding-top:1.7em;
@@ -98,7 +98,7 @@ p{
   margin-right:auto;
 }
 
-.quote:last-child{
+.blockquote-light:last-child{
 	background-image:url("https://coulton7.github.io/quoteslider/images/blockquote-bottom.png");
   background-position:98.7% 100%;
   background-repeat:no-repeat;
@@ -176,12 +176,12 @@ p{
     display: inline-block;
     margin-top: 2em;
   }
-  .quote{
+  .blockquote-light{
     float: right;
     display: inline-block;
     width:74%;
   }
-  .quote p:last-child{
+  .blockquote-light p:last-child{
         background-position:-2.6% -28%;
   }
 }
@@ -190,7 +190,7 @@ p{
   .carousel{
     height: 22em;
   }
-  .quote p:first-child{
+  .blockquote-light p:first-child{
         background-position:-2.6% -13%;
   }
   .carousel-indicators{
@@ -202,7 +202,7 @@ p{
   .carousel{
   height: 17em;
 }
-.quote p:first-child{
+.blockquote-light p:first-child{
       background-position:-1.6% -20%;
 }
 }
