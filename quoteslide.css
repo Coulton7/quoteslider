@@ -160,7 +160,7 @@ p{
   .parent-box{
     display: none;
   }
-  .carousel{
+  #slider{
     height: 21em;
     display: inline-block;
   }
@@ -187,19 +187,19 @@ p{
 }
 
 @media screen and (min-width: 768px) {
-  .carousel{
+  #slider{
     height: 22em;
   }
   .quote p:first-child{
         background-position:-2.6% -13%;
   }
-  .carousel-indicators{
+  #slider-indicators{
     bottom:-2em ;
     left:50%;
   }
 }
 @media screen and (min-width: 992px){
-  .carousel{
+  #slider{
   height: 17em;
 }
 .quote p:first-child{
