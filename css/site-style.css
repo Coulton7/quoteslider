@@ -2052,7 +2052,7 @@ ul.resource-cats a, ul.about-us-cats a {
   }
 
   .carousel-inner .item.active>div:first-child+div {
-    display: block;
+    display: flex;
   }
 
   .carousel-inner .item.active>div:first-child+div+div {
@@ -2060,16 +2060,16 @@ ul.resource-cats a, ul.about-us-cats a {
   }
 
   .media-carousel .carousel-inner .item.prev.right>div:first-child, .media-carousel .carousel-inner .item.prev.right>div:first-child+div {
-    display: block;
+    display: flex;
     height: 100%;
   }
 
   .media-carousel .carousel-inner .item.next.left>div:first-child, .media-carousel .carousel-inner .item.prev.right>div:first-child+div {
-    display: block;
+    display: flex;
   }
 
   .media-carousel .carousel-inner .item.active>div:first-child {
-    display: block;
+    display: flex;
   }
 
   .noscroll .action-menu {
@@ -2257,15 +2257,15 @@ ul.resource-cats a, ul.about-us-cats a {
   }
 
   .carousel-inner .item.active>div:first-child+div {
-    display: block;
+    display: flex;
   }
 
   .carousel-inner .item.active>div:first-child+div+div {
-    display: block;
+    display: flex;
   }
 
   .carousel-inner .item.active .news, .carousel-inner.horizontal>.item.active.right .news, .carousel-inner.horizontal>.item.active.left .news, .carousel-inner.horizontal>.item.prev.right .news, .carousel-inner.horizontal>.item.next.left .news {
-    display: block;
+    display: flex;
   }
 
   .carousel-inner.horizontal>.item.active.right .news:last-child, .carousel-inner.horizontal>.item.active.left .news:last-child, .carousel-inner.horizontal>.item.prev.right .news:last-child, .carousel-inner.horizontal>.item.next.left .news:last-child {
